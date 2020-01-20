@@ -1,6 +1,6 @@
 # Automated greenhouse model
 
-For my Final Year project I have decided to design an Automated greenhouse model. The goal of project was to regulate temperature, humidity, soil moisture and luminosity level. Arduino is reciving data from sensors and depending on the setpoints it switches fans, LED strip, water pump and LED diod(indicator that temperature is too low) ON or OFF. Every measurement is displayed on Nextion touchscreen display. Thanks to touchscreen it's possible to set different setpoints.
+For my Final Year project I have decided to design an Automated greenhouse model. The goal of project was to regulate temperature, humidity, soil moisture and luminosity level. Arduino is receiving data from sensors and depending on the setpoints it switches fans, LED strip, water pump and LED diod(indicator that temperature is too low) ON or OFF. Every measurement is displayed on Nextion touchscreen display. Thanks to touchscreen it's possible to set different setpoints.
 
 ### Components
 - Arduino UNO
